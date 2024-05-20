@@ -29,4 +29,7 @@ donnees = lire_donnees_csv()
 for donnee in donnees:
     print(donnee)
 
-
+def ecriredonneesjson(nom_fichier, donnees):
+    liste_dictionnaires = [donnee.__dict__ for donnee in donnees]
+    with open(nom_fichier, 'w', encoding='utf-8') as f1:
+        json.dump(liste_dictionnaires, f1, indent = 4)
