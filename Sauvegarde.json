@@ -1,0 +1,38 @@
+[
+    {
+        "ville": "Paris",
+        "pays": "France",
+        "latitude": 48.8534951,
+        "longitude": 2.3483915
+    },
+    {
+        "ville": "Londres",
+        "pays": " Angleterre",
+        "latitude": 51.5073219,
+        "longitude": -0.1276474
+    },
+    {
+        "ville": "Hong Kong",
+        "pays": " Chine",
+        "latitude": 22.2793278,
+        "longitude": 114.1628131
+    },
+    {
+        "ville": "New York",
+        "pays": " États-Unis d'Amérique",
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
+    },
+    {
+        "ville": "Montréal",
+        "pays": " Canada",
+        "latitude": 45.5031824,
+        "longitude": -73.5698065
+    },
+    {
+        "ville": "Berlin",
+        "pays": " Allemagne",
+        "latitude": 52.5170365,
+        "longitude": 13.3888599
+    }
+]
